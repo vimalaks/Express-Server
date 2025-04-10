@@ -4,7 +4,6 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon app_Query.js"
-    
   },
   "keywords": [],
   "author": "",
@@ -13,5 +12,13 @@
     "express": "^4.21.2"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "Creating a server with Express framework to use nodeJS technology in REST API architecture by coding APIs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimalaks/Express-Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vimalaks/Express-Server/issues"
+  },
+  "homepage": "https://github.com/vimalaks/Express-Server#readme"
 }
