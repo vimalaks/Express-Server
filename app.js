@@ -3,7 +3,7 @@ const app = express();
 let tasks = [];//for further implementation
 const port = 5500;
 app.get("/login",(req,res,next)=>
-{ res.send(`Inside the get API of app_Query`);}
+{ res.send(`Inside get API of app_Query`);}
 );
 
 app.listen(port,()=>
